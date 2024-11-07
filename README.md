@@ -4,12 +4,14 @@
 
 ##간단한 소개
 
-![image](https://github.com/user-attachments/assets/15b185a5-c947-4151-bc17-5d70cbbea27c)
-![image](https://github.com/user-attachments/assets/f8bb0cb8-3615-4678-947f-3e387eba4356)
-![image](https://github.com/user-attachments/assets/7212b28c-83c1-4948-9722-2edd5fa3e78d)
-![image](https://github.com/user-attachments/assets/d77c2bc0-6a24-4e11-a1d9-e3e3ed7f0e95)
-![image](https://github.com/user-attachments/assets/26a531f1-5ae1-4bb9-a7d1-47455750a62d)
-![image](https://github.com/user-attachments/assets/20b50657-ee4f-4021-8c97-fa4e42541a11)
-![image](https://github.com/user-attachments/assets/72edb7dc-78ff-48fd-bb92-f2b137fed29e)
-![image](https://github.com/user-attachments/assets/2c206056-cda8-45ab-a717-452a3b78aee0)
-![image](https://github.com/user-attachments/assets/feabd529-1687-422a-93ab-ce3f48c828f5)
+![슬라이드8](https://github.com/user-attachments/assets/471b8ab9-b828-41e1-b574-829b952efa81)
+![슬라이드7](https://github.com/user-attachments/assets/24169342-9f4b-448d-bc8f-e3b21fe17e54)
+![슬라이드6](https://github.com/user-attachments/assets/bc90cd61-f3c8-4f5b-8df0-be88f0cec315)
+![슬라이드5](https://github.com/user-attachments/assets/5d2f69cb-1d3f-45ab-82a6-005a14330d68)
+![슬라이드4](https://github.com/user-attachments/assets/90501ef4-bd2c-47e7-8029-3ca6a4962c05)
+![슬라이드3](https://github.com/user-attachments/assets/e7590de6-3cc2-4ff2-a6ef-aa316b0df8d2)
+![슬라이드14](https://github.com/user-attachments/assets/8453d799-1e70-4904-a457-603b59f00a54)
+![슬라이드12](https://github.com/user-attachments/assets/892074c3-375b-4034-9ebf-c493e3ed5d4c)
+![슬라이드11](https://github.com/user-attachments/assets/b829a92e-8705-434f-a7c6-807b1901e224)
+![슬라이드10](https://github.com/user-attachments/assets/2f9a6ad5-4db7-4713-a6df-56b4d076d4fb)
+![슬라이드9](https://github.com/user-attachments/assets/9c616165-e3e1-4bdf-8dea-425e3df47d1b)
